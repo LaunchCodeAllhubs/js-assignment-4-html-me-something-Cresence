@@ -1,1 +1,10 @@
 /* Write your CSS here! */
+#lc101 {
+    position: fixed;
+    height: 200px;
+    width: 200px;
+    padding: 0.1em;
+    opacity: 0.5;  
+    top: -75px;
+    right: 10px;
+}
