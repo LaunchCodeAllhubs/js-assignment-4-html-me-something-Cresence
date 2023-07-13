@@ -1,4 +1,19 @@
 /* Write your CSS here! */
+body {
+    display: block;
+    margin: 8px;
+}
+
+footer {
+    position: absolute;
+    bottom: 10px;
+    right: 10px
+}
+
+#mainHeading {
+    color: red;
+}
+
 #lc101 {
     position: absolute;
     height: 200px;
@@ -13,4 +28,12 @@
     height: 200px;
     width: 275px;
     border-style: solid;
+}
+
+.funParagraph {
+    color: green;
+}
+
+.consoleText {
+    border-bottom: 10%;
 }
